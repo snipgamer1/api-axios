@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Integración de Axios en una Aplicación Next.js
 
-## Getting Started
+## Scripts Disponibles
 
-First, run the development server:
+En el directorio del proyecto, puedes ejecutar:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### `npm install`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Para instalar las todas dependecias en la carpeta /nodemodules
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### `npm run dev`
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Ejecuta la aplicación en modo de desarrollo.
+Abra [http://localhost:3000](http://localhost:3000) para verlo en su navegador.
 
-## Learn More
+### `code .`
+Para abrir la carpeta de proyecto
 
-To learn more about Next.js, take a look at the following resources:
+## Detalles
+integracion de axios en el proyecto
+Conexión a una API Externa:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Visualización de Datos:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Gestión de Errores y Excepciones:
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
