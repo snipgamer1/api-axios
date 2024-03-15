@@ -19,9 +19,9 @@ Para abrir la carpeta de proyecto
 ## Detalles
 integracion de axios en el proyecto
 Conexión a una API Externa:
-https://github.com/snipgamer1/api-axios/blob/main/public/axios.png
+![Agregar](https://github.com/snipgamer1/api-axios/blob/main/public/axios.png)
 
 Visualización de Datos:
-
+![Agregar](https://github.com/snipgamer1/api-axios/blob/main/public/list.png)
 Gestión de Errores y Excepciones:
-
+![Agregar](https://github.com/snipgamer1/api-axios/blob/main/public/manejo%20de%20errores.png)
